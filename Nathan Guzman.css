@@ -1,0 +1,13 @@
+.name {
+    font-family:cursive;
+    color: blue;
+    text-align:center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: blueviolet;
+    margin: 0px;
+}
+body{
+    background-color: aquamarine;
+    margin: 0px;
+}
